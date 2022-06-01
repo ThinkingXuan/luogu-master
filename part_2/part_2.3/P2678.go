@@ -34,6 +34,7 @@ func main() {
 		fmt.Scan(&nums[i])
 	}
 
+	// 加上最后一个
 	nums[n+1] = l
 
 	left, right := 1, l
