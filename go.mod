@@ -1,4 +1,4 @@
-module luogu
+module brush-question
 
 go 1.18
 
